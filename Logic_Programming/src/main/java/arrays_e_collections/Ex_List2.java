@@ -36,4 +36,6 @@ public class Ex_List2 {
             System.out.printf("Nome da fruta: %s%n",fruta);
         }
     }
+
+
 }
